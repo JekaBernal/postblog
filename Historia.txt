@@ -1,6 +1,6 @@
 
 Este mi primer archivo en Visual Studio Code
 
-    Estoy aprendiendo en Platzi.com y espero convertirme en alguien funcional
+    Estoy aprendiendo en Platzi.com y seré alguien funcional
 
     Ya casi tengo 18 años y mis amigos son contados con los dedos de la mano
