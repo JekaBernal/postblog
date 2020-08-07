@@ -2,3 +2,5 @@
 Este es el primer archivo en Visual Studio Code de Jessika Daniela Niño Bernal
 
     Estoy aprendiendo en Platzi.com y espero convertirme en alguien funcional
+
+    Ya casi tengo 18 años y mis amigos son contados con los dedos de la mano
