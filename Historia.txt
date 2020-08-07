@@ -1,5 +1,5 @@
 
-Este es el primer archivo en Visual Studio Code de Jessika Daniela Niño Bernal
+Este mi primer archivo en Visual Studio Code
 
     Estoy aprendiendo en Platzi.com y espero convertirme en alguien funcional
 
